@@ -1,0 +1,28 @@
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.exe
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.deps.json
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.runtimeconfig.json
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.dll
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.pdb
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.AssemblyInfoInputs.cache
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.AssemblyInfo.cs
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.csproj.CoreCompileInputs.cache
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.dll
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\refint\BibliothequeNumerique.dll
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.pdb
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.genruntimeconfig.cache
+C:\Users\SETUP GAME\Desktop\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\ref\BibliothequeNumerique.dll
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.exe
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.deps.json
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.runtimeconfig.json
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.dll
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\bin\Debug\net10.0\BibliothequeNumerique.pdb
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.AssemblyInfoInputs.cache
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.AssemblyInfo.cs
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.csproj.CoreCompileInputs.cache
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.dll
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\refint\BibliothequeNumerique.dll
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.pdb
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\BibliothequeNumerique.genruntimeconfig.cache
+C:\Users\benna\Desktop\projet.net\MonProjetBibliotheque\BibliothequeNumerique\obj\Debug\net10.0\ref\BibliothequeNumerique.dll
